@@ -7,3 +7,23 @@ http://swantron.com/IOIOPowerSwitch
 Simple app, utilizing IOIO to fire a PowerSwitch Tail 120V relay.  
 
 Code configures pin function, and implements a simple toggle button
+
+Requires:
+
+Android device (tested via Droid 2)
+PowerSwitch Tail
+IOIO Breakout board
+USB / wires / 120V device
+
+Setup:
+
+Configured in a two pin, open drain setup.  Picture to follow.  
+
+Connection points:
+
+IOIO Pin 23 - 
+IOIO Pin 25 - 
+IOIO 5V -
+IOIO Gnd -
+PowerSwitchTail +
+PowerSwitchTail -

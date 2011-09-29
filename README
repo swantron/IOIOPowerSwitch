@@ -28,7 +28,13 @@ IOIO Gnd -
 PowerSwitchTail +
 PowerSwitchTail -
 
-Note:  
+Note 1:  
 
 Code uploaded to Android Market @
 https://market.android.com/details?id=swantron.project.power
+
+Note 2:
+
+This project was completed and tested with IOIOLib v1...IOIO should be backwards compatable.
+If not, flash v 1.0 of the firmware to the board, and ths app will work.  I will validate this
+and update the code as time permits.  Thanks.
